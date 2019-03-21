@@ -116,5 +116,8 @@
     "presets": [
       "react-app"
     ]
+  },"engines": {
+    "node": "8.12.x",
+    "npm": "6.7.x"
   }
 }
